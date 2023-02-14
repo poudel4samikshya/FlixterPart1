@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Screen Shot Glide
-<img src='vedioWalkThroughFlixter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='screenShotGlide.jpg title='Glide ScreenShot' width='' alt='Glide ScreenShot' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
